@@ -16,13 +16,14 @@ Je compte passer, au plus tard d'ici octobre, la certification Opquast. C'est la
 ![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759b?style=flat-square&logo=WordPress)
+![Laravel](https://img.shields.io/badge/-laravel-23FF2D?style=flat-square&logo=laravel)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-orange?style=flat-square&logo=CodeIgniter)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript)
+![jQuery](https://img.shields.io/badge/-jquery-230769?style=flat-square&logo=jquery)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-303030?style=flat-square&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-3E2C00?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-
 ![MarkDown](https://img.shields.io/badge/markdown-black?&style=flat-square&logo=markdown)
 
 ### 📫 Comment me joindre ?

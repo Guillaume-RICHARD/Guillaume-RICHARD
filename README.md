@@ -4,9 +4,10 @@
 Je m'appelle Guillaume RICHARD, et je suis actuellement Développeur Web (depuis 10 ans).
 
 ### 🌱 J'apprends actuellement ...
-En ce moment, j'apprends à developper sur WordPress. J'aimerai devenir autonome et spécialiste sur ce CMS.
-
-Je compte passer, au plus tard d'ici octobre, la certification Opquast. C'est la certification des professionnels du Web.
+Compétence en cours d'intégration :
+* développement spécifique sur WordPress, en toute autonomie.
+* Passage de la ![certification Opquast](https://www.opquast.com/), certification des professionnels du Web.
+* Gestion de mon temps.
 
 ### ⚡ Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -26,7 +27,7 @@ Je compte passer, au plus tard d'ici octobre, la certification Opquast. C'est la
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![MarkDown](https://img.shields.io/badge/markdown-black?&style=flat-square&logo=markdown)
 
-### 📫 Comment me joindre ?
+### 📫 Comment me joindre ? me parler ? me suivre ?
 Si vous voulez lire ce que j'écris, ou ce que je pense, vous pouvez me suivre !
 Je suis principalement sur Twitter, mais il peut m'arriver d'écrire des articles sur mes blogs, ou de poster de rares photos sur Instagram
 

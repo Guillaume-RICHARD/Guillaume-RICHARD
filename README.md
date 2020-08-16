@@ -23,7 +23,7 @@ Je compte passer, au plus tard d'ici octobre, la certification Opquast. C'est la
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-![MarkDown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
+![MarkDown](https://img.shields.io/badge/markdown-white?&style=flat-square&logo=markdown)
 
 ### 📫 Comment me joindre ?
 Si vous voulez lire ce que j'écris, ou ce que je pense, vous pouvez me suivre !

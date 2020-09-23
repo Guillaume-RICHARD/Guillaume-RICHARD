@@ -37,8 +37,8 @@
 * [@gjfrichard - Twitter](https://twitter.com/gjfrichard)
 
 ### ⚡ Fun fact:
-* J'adore :heart: :cat:s
-* J'adore la lecture et les séries TV.
+* J'adore :heart: les :cat: , la lecture et les séries TV
+* J'écoute beaucoup de podcasts
 
 <!--
 - 🔭 I’m currently working on ...

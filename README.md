@@ -6,10 +6,14 @@ Je m'appelle Guillaume RICHARD, et je suis actuellement Développeur Web (depuis
 ### 🌱 J'apprends actuellement ...
 Compétence en cours d'intégration :
 * développement spécifique sur WordPress, en toute autonomie.
-* Passage de la ![certification Opquast](https://www.opquast.com/), certification des professionnels du Web.
+* Passage de la [certification Opquast](https://www.opquast.com/), certification des professionnels du Web.
 * Gestion de mon temps.
 
-### Blog Portfolio
+### 📕 Blog Portfolio
+<!-- BLOG-PORTFOLIO-LIST:START -->
+<!-- BLOG-PORTFOLIO-LIST:END -->
+
+### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -32,17 +36,10 @@ Compétence en cours d'intégration :
 ![MarkDown](https://img.shields.io/badge/markdown-black?&style=flat-square&logo=markdown)
 
 ### 📫 Comment me joindre ? me parler ? me suivre ?
-Si vous voulez lire ce que j'écris, ou ce que je pense, vous pouvez me suivre !
-Je suis principalement sur Twitter, mais il peut m'arriver d'écrire des articles sur mes blogs, ou de poster de rares photos sur Instagram
-
-  - [@gjfrichard - Portfolio](https://guillaume-richard.fr/)
-  - [@gjfrichard - Twitter](https://twitter.com/gjfrichard)
+* [@gjfrichard - Portfolio](https://guillaume-richard.fr/)
+* [@gjfrichard - Twitter](https://twitter.com/gjfrichard)
 
 <!--
-**Guillaume-RICHARD/Guillaume-RICHARD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

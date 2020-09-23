@@ -1,13 +1,9 @@
 ## Hello World ! 👋
 
 ### Qui suis-je ?
-Je m'appelle Guillaume RICHARD, et je suis actuellement Développeur Web (depuis 10 ans).
-
-### 🌱 J'apprends actuellement ...
-Compétence en cours d'intégration :
-* développement spécifique sur WordPress, en toute autonomie.
-* Passage de la [certification Opquast](https://www.opquast.com/), certification des professionnels du Web.
-* Gestion de mon temps.
+- Je m'appelle Guillaume RICHARD, et je suis actuellement Développeur Web (+ 10 ans d'expériences).
+- 🌱 J'apprends actuellement WordPress, la [certification Opquast](https://www.opquast.com/), et les bonnes pratiques ...
+- 💬 Interrogez-moi sur tout ce qui concerne PHP/POO, les bonnes pratiques et Opquast ...
 
 ### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->
@@ -40,11 +36,14 @@ Compétence en cours d'intégration :
 * [@gjfrichard - Portfolio](https://guillaume-richard.fr/)
 * [@gjfrichard - Twitter](https://twitter.com/gjfrichard)
 
+### ⚡ Fun fact:
+* J'adore :heart: :cat:s
+* J'adore la lecture et les séries TV.
+
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->

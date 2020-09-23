@@ -9,6 +9,10 @@ Compétence en cours d'intégration :
 * Passage de la ![certification Opquast](https://www.opquast.com/), certification des professionnels du Web.
 * Gestion de mon temps.
 
+### Blog Portfolio
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### ⚡ Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)

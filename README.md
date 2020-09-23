@@ -11,6 +11,11 @@ Compétence en cours d'intégration :
 
 ### Blog Portfolio
 <!-- BLOG-POST-LIST:START -->
+- [Profil GitHub : Comment en créer un en Markdown](https://guillaume-richard.fr/comment-creer-un-profil-github-en-markdown/)
+- [News sur PHP 8](https://guillaume-richard.fr/news-de-php-8/)
+- [Les étapes du débogage](https://guillaume-richard.fr/etapes-du-debogage/)
+- [Supprimer TOUS les dossiers node_modules de votre machine](https://guillaume-richard.fr/supprimer-tous-les-dossiers-node-modules-de-votre-machine/)
+- [Bibliothèques CSS minimaliste](https://guillaume-richard.fr/bibliotheques-css-minimaliste/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

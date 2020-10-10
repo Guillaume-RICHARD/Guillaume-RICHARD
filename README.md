@@ -9,9 +9,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Newsletters narrative](https://365idees.jf-blog.fr/newsletters-narrative)
 - [[Documentaire Netflix] The Social Dilemma](https://guillaume-richard.fr/documentaire-netflix-the-social-dilemma/)
+- [Astuce Smartphone – Ajouter ses coordonnées GPS sur les photos](https://jf-blog.fr/astuce-smartphone-ajouter-ses-coordonnees-gps-sur-les-photos)
 - [Profil GitHub : Comment en créer un en Markdown](https://guillaume-richard.fr/comment-creer-un-profil-github-en-markdown/)
-- [News sur PHP 8](https://guillaume-richard.fr/news-de-php-8/)
-- [Les étapes du débogage](https://guillaume-richard.fr/etapes-du-debogage/)
+- [array_rand – Prendre des clés au hasard dans un tableau](https://jf-blog.fr/array-rand-prendre-des-cles-au-hasard-dans-un-tableau)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

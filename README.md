@@ -8,10 +8,10 @@
 ### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->
 - [Opquast : mon obtention de la certification](https://guillaume-richard.fr/opquast-mon-obtention-de-la-certification/)
-- [Comment insérer un élément au milieu d’un tableau PHP ?](https://jf-blog.fr/comment-inserer-un-element-au-milieu-dun-tableau-php)
 - [Newsletters narrative](https://365idees.jf-blog.fr/newsletters-narrative)
 - [[Documentaire Netflix] The Social Dilemma](https://guillaume-richard.fr/documentaire-netflix-the-social-dilemma/)
-- [Astuce Smartphone – Ajouter ses coordonnées GPS sur les photos](https://jf-blog.fr/astuce-smartphone-ajouter-ses-coordonnees-gps-sur-les-photos)
+- [Profil GitHub : Comment en créer un en Markdown](https://guillaume-richard.fr/comment-creer-un-profil-github-en-markdown/)
+- [News sur PHP 8](https://guillaume-richard.fr/news-de-php-8/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

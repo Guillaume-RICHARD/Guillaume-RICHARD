@@ -2,8 +2,11 @@
 
 ### Qui suis-je ?
 - Je m'appelle Guillaume RICHARD, et je suis actuellement Développeur Web (+ 10 ans d'expériences).
-- 🌱 J'apprends actuellement WordPress, la [certification Opquast](https://www.opquast.com/), et les bonnes pratiques ...
-- 💬 Interrogez-moi sur tout ce qui concerne PHP/POO, les bonnes pratiques et Opquast ...
+- 💬 Interrogez-moi sur tout ce qui concerne le développement en PHP, les bonnes pratiques et les bonnes pratiques Opquast ...
+
+### Dernières News
+- 🌱 Obtention de la [certification Opquast](https://www.opquast.com/).
+- Note finale : 865/1000 [Niveau AVANCÉ](https://directory.opquast.com/fr/certificat/8AWHQT/)
 
 ### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->

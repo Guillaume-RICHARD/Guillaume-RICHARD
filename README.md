@@ -7,11 +7,11 @@
 
 ### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->
+- [Opquast : mon obtention de la certification](https://guillaume-richard.fr/opquast-mon-obtention-de-la-certification/)
 - [Comment insérer un élément au milieu d’un tableau PHP ?](https://jf-blog.fr/comment-inserer-un-element-au-milieu-dun-tableau-php)
 - [Newsletters narrative](https://365idees.jf-blog.fr/newsletters-narrative)
+- [[Documentaire Netflix] The Social Dilemma](https://guillaume-richard.fr/documentaire-netflix-the-social-dilemma/)
 - [Astuce Smartphone – Ajouter ses coordonnées GPS sur les photos](https://jf-blog.fr/astuce-smartphone-ajouter-ses-coordonnees-gps-sur-les-photos)
-- [array_rand – Prendre des clés au hasard dans un tableau](https://jf-blog.fr/array-rand-prendre-des-cles-au-hasard-dans-un-tableau)
-- [Réduire la taille d’une image en Bash](https://jf-blog.fr/reduire-la-taille-dune-image-en-bash)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

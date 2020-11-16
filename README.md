@@ -10,11 +10,11 @@
 
 ### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->
+- [Cercle dynamique dans Leaflet](https://jf-blog.fr/cercle-dynamique-dans-leaflet)
 - [Hacking Éthique : Ingénierie Sociale](https://guillaume-richard.fr/hacking-ethique-ingenierie-sociale/)
 - [Partage d’articles payant](https://365idees.jf-blog.fr/partage-darticles-payant)
 - [Opquast : mon obtention de la certification](https://guillaume-richard.fr/opquast-mon-obtention-de-la-certification/)
 - [Comment insérer un élément au milieu d’un tableau PHP ?](https://jf-blog.fr/comment-inserer-un-element-au-milieu-dun-tableau-php)
-- [Newsletters narrative](https://365idees.jf-blog.fr/newsletters-narrative)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

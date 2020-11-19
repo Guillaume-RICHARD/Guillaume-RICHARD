@@ -10,11 +10,11 @@
 
 ### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->
+- [Arnaque à la livraison de colis inexistants](https://guillaume-richard.fr/arnaque-a-la-livraison-de-colis-inexistants/)
 - [Cercle dynamique dans Leaflet](https://jf-blog.fr/cercle-dynamique-dans-leaflet)
 - [Hacking Éthique : Ingénierie Sociale](https://guillaume-richard.fr/hacking-ethique-ingenierie-sociale/)
 - [Partage d’articles payant](https://365idees.jf-blog.fr/partage-darticles-payant)
 - [Opquast : mon obtention de la certification](https://guillaume-richard.fr/opquast-mon-obtention-de-la-certification/)
-- [Comment insérer un élément au milieu d’un tableau PHP ?](https://jf-blog.fr/comment-inserer-un-element-au-milieu-dun-tableau-php)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

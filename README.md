@@ -10,11 +10,11 @@
 
 ### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->
-- [Accéder à votre xampp d’un téléphone](https://jf-blog.fr/acceder-a-un-xampp-dun-telephone)
 - [Arnaque à la livraison de colis inexistants](https://guillaume-richard.fr/arnaque-a-la-livraison-de-colis-inexistants/)
 - [Cercle dynamique dans Leaflet](https://jf-blog.fr/cercle-dynamique-dans-leaflet)
 - [Hacking Éthique : Ingénierie Sociale](https://guillaume-richard.fr/hacking-ethique-ingenierie-sociale/)
 - [Partage d’articles payant](https://365idees.jf-blog.fr/partage-darticles-payant)
+- [Opquast : mon obtention de la certification](https://guillaume-richard.fr/opquast-mon-obtention-de-la-certification/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

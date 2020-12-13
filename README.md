@@ -10,11 +10,11 @@
 
 ### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->
-- [Calculatrice d’abonnement dynamique](https://jf-blog.fr/calculatrice-dabonnement-dynamique/)
+- [Calculatrice d’abonnement dynamique](https://jf-blog.fr/calculatrice-dabonnement-dynamique)
 - [Configurer Twitter pour réduire son empreinte environnementale](https://guillaume-richard.fr/configurer-twitter-pour-reduire-son-empreinte-environnementale/)
-- [Accéder à votre xampp d’un téléphone](https://jf-blog.fr/acceder-a-un-xampp-dun-telephone/)
+- [Accéder à votre xampp d’un téléphone](https://jf-blog.fr/acceder-a-un-xampp-dun-telephone)
 - [Arnaque à la livraison de colis inexistants](https://guillaume-richard.fr/arnaque-a-la-livraison-de-colis-inexistants/)
-- [Cercle dynamique dans Leaflet](https://jf-blog.fr/cercle-dynamique-dans-leaflet/)
+- [Cercle dynamique dans Leaflet](https://jf-blog.fr/cercle-dynamique-dans-leaflet)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

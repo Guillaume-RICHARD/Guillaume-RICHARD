@@ -11,10 +11,10 @@
 ### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->
 - [Bilan de l’année 2020 et résolutions 2021](https://guillaume-richard.fr/bilan-de-lannee-2020-et-resolutions-2021/)
-- [Calculatrice d’abonnement dynamique](https://jf-blog.fr/calculatrice-dabonnement-dynamique/)
 - [Configurer Twitter pour réduire son empreinte environnementale](https://guillaume-richard.fr/configurer-twitter-pour-reduire-son-empreinte-environnementale/)
-- [Accéder à votre xampp d’un téléphone](https://jf-blog.fr/acceder-a-un-xampp-dun-telephone/)
 - [Arnaque à la livraison de colis inexistants](https://guillaume-richard.fr/arnaque-a-la-livraison-de-colis-inexistants/)
+- [Hacking Éthique : Ingénierie Sociale](https://guillaume-richard.fr/hacking-ethique-ingenierie-sociale/)
+- [Opquast : mon obtention de la certification](https://guillaume-richard.fr/opquast-mon-obtention-de-la-certification/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

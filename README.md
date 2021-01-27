@@ -13,8 +13,8 @@
 - [Installer un WordPress en 2 minutes](https://guillaume-richard.fr/installer-un-wordpress-en-2-minutes/)
 - [Résolutions pour l’année 2021](https://guillaume-richard.fr/resolutions-pour-lannee-2021/)
 - [Bilan de l’année 2020 et résolutions 2021](https://guillaume-richard.fr/bilan-de-lannee-2020-et-resolutions-2021/)
+- [Calculatrice d’abonnement dynamique](https://jf-blog.fr/calculatrice-dabonnement-dynamique/)
 - [Configurer Twitter pour réduire son empreinte environnementale](https://guillaume-richard.fr/configurer-twitter-pour-reduire-son-empreinte-environnementale/)
-- [Arnaque à la livraison de colis inexistants](https://guillaume-richard.fr/arnaque-a-la-livraison-de-colis-inexistants/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

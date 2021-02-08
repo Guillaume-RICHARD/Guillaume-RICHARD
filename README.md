@@ -10,11 +10,11 @@
 
 ### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->
-- [Installer un WordPress en 2 minutes](https://guillaume-richard.fr/installer-un-wordpress-en-2-minutes/)
-- [Syndrome du fichier fourre-tout](https://jf-blog.fr/syndrome-du-fichier-fourre-tout/)
-- [Résolutions pour l’année 2021](https://guillaume-richard.fr/resolutions-pour-lannee-2021/)
-- [Année 2020-2021](https://jf-blog.fr/annee-2020-2021/)
-- [Bilan de l’année 2020 et résolutions 2021](https://guillaume-richard.fr/bilan-de-lannee-2020-et-resolutions-2021/)
+- [Partage d’articles payant](https://365idees.jf-blog.fr/partage-darticles-payant)
+- [Newsletters narrative](https://365idees.jf-blog.fr/newsletters-narrative)
+- [Création de page d’accueil personnalisé](https://365idees.jf-blog.fr/creation-de-page-daccueil-personnalise)
+- [Planet Dataviz](https://365idees.jf-blog.fr/planet-dataviz)
+- [Même HTML, CSS différent](https://365idees.jf-blog.fr/meme-html-css-different)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

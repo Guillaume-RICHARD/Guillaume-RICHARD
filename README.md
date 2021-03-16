@@ -10,11 +10,11 @@
 
 ### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->
+- [Principe de déconnexion](https://guillaume-richard.fr/principe-de-deconnexion/)
 - [Formulaire dynamique avec géocodage](https://jf-blog.fr/formulaire-dynamique-avec-geocodage/)
 - [Utiliser MySQL et PHP avec Google Maps (1/x)](https://jf-blog.fr/utiliser-mysql-et-php-avec-google-maps-1/)
 - [PHP-CLI, ou la création d’un environnement CLI en PHP](https://guillaume-richard.fr/php-cli-ou-la-creation-dun-environnement-cli-en-php/)
 - [Installer un WordPress en 2 minutes](https://guillaume-richard.fr/installer-un-wordpress-en-2-minutes/)
-- [Syndrome du fichier fourre-tout](https://jf-blog.fr/syndrome-du-fichier-fourre-tout/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

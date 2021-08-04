@@ -11,10 +11,10 @@
 ### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->
 - [La veille technologique](https://guillaume-richard.fr/la-veille-technologique/)
+- [Usage basique de simplepie](https://jf-blog.fr/usage-basique-de-simplepie/)
 - [Préparation de données avec SQL](https://guillaume-richard.fr/preparation-de-donnees-avec-sql/)
+- [Utiliser MySQL et PHP avec Google Maps (2/x)](https://jf-blog.fr/utiliser-mysql-et-php-avec-google-maps-2/)
 - [CEO, CTO, … Que signifie ces acronymes de postes dans une entreprise ?](https://guillaume-richard.fr/acronymes-definition-ceo-cto/)
-- [Principe de déconnexion](https://guillaume-richard.fr/principe-de-deconnexion/)
-- [PHP-CLI, ou la création d’un environnement CLI en PHP](https://guillaume-richard.fr/php-cli-ou-la-creation-dun-environnement-cli-en-php/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

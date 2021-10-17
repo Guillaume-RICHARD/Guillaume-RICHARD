@@ -10,11 +10,11 @@
 
 ### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->
+- [Les 5 signes d’un développeur inexpérimenté](https://guillaume-richard.fr/les-5-signes-dun-developpeur-inexperimente/)
 - [Importation d’une BDD MySQL en ligne de commande Windows](https://jf-blog.fr/importation-dune-bdd-mysql-en-ligne-de-commande-windows/)
 - [La veille technologique](https://guillaume-richard.fr/la-veille-technologique/)
 - [Usage basique de simplepie](https://jf-blog.fr/usage-basique-de-simplepie/)
 - [Préparation de données avec SQL](https://guillaume-richard.fr/preparation-de-donnees-avec-sql/)
-- [Utiliser MySQL et PHP avec Google Maps (2/x)](https://jf-blog.fr/utiliser-mysql-et-php-avec-google-maps-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

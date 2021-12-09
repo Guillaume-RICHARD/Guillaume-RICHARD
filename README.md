@@ -10,11 +10,11 @@
 
 ### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->
+- [Extensions Chrome indispensables](https://jf-blog.fr/extensions-chrome-indispensables/)
+- [Git et proxy : cause de l’erreur 407](https://guillaume-richard.fr/git-et-proxy-cause-erreur-407/)
 - [Comment afficher les erreurs php ?](https://jf-blog.fr/comment-afficher-les-erreurs-php/)
 - [Les 5 signes d’un dév inexpérimenté](https://guillaume-richard.fr/les-5-signes-dun-developpeur-inexperimente/)
 - [Importation d’une BDD MySQL en ligne de commande Windows](https://jf-blog.fr/importation-dune-bdd-mysql-en-ligne-de-commande-windows/)
-- [La veille technologique](https://guillaume-richard.fr/la-veille-technologique/)
-- [Usage basique de simplepie](https://jf-blog.fr/usage-basique-de-simplepie/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

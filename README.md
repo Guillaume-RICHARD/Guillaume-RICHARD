@@ -10,11 +10,11 @@
 
 ### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->
+- [Effectuer une migration PHP](https://guillaume-richard.fr/effectuer-une-migration-php/)
 - [Extensions Chrome indispensables](https://jf-blog.fr/extensions-chrome-indispensables/)
 - [Git et proxy : cause de l’erreur 407](https://guillaume-richard.fr/git-et-proxy-cause-erreur-407/)
 - [Comment afficher les erreurs php ?](https://jf-blog.fr/comment-afficher-les-erreurs-php/)
 - [Les 5 signes d’un dév inexpérimenté](https://guillaume-richard.fr/les-5-signes-dun-developpeur-inexperimente/)
-- [Importation d’une BDD MySQL en ligne de commande Windows](https://jf-blog.fr/importation-dune-bdd-mysql-en-ligne-de-commande-windows/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

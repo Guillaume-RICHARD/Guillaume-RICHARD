@@ -10,11 +10,11 @@
 
 ### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->
+- [Améliorer sa configuration Twitter](https://guillaume-richard.fr/ameliorer-sa-configuration-twitter/)
 - [Effectuer une migration PHP](https://guillaume-richard.fr/effectuer-une-migration-php/)
 - [Extensions Chrome indispensables](https://jf-blog.fr/extensions-chrome-indispensables/)
 - [Git et proxy : cause de l’erreur 407](https://guillaume-richard.fr/git-et-proxy-cause-erreur-407/)
 - [Comment afficher les erreurs php ?](https://jf-blog.fr/comment-afficher-les-erreurs-php/)
-- [Les 5 signes d’un dév inexpérimenté](https://guillaume-richard.fr/les-5-signes-dun-developpeur-inexperimente/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

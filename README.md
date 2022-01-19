@@ -10,11 +10,11 @@
 
 ### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->
+- [Parts de marché des navigateurs Web](https://jf-blog.fr/parts-de-marche-des-navigateurs-web/)
 - [Amélioration de code : cas de if-else](https://guillaume-richard.fr/amelioration-de-code-cas-de-if-else/)
 - [Améliorer sa configuration Twitter](https://guillaume-richard.fr/ameliorer-sa-configuration-twitter/)
 - [Effectuer une migration PHP](https://guillaume-richard.fr/effectuer-une-migration-php/)
 - [Extensions Chrome indispensables](https://jf-blog.fr/extensions-chrome-indispensables/)
-- [Git et proxy : cause de l’erreur 407](https://guillaume-richard.fr/git-et-proxy-cause-erreur-407/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

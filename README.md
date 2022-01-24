@@ -10,11 +10,11 @@
 
 ### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->
+- [Connaître les caractéristiques d’une BDD en SQL](https://guillaume-richard.fr/connaitre-les-caracteristiques-dune-bdd-en-sql/)
 - [Parts de marché des navigateurs Web](https://jf-blog.fr/parts-de-marche-des-navigateurs-web/)
 - [Amélioration de code : cas de if-else](https://guillaume-richard.fr/amelioration-de-code-cas-de-if-else/)
 - [Améliorer sa configuration Twitter](https://guillaume-richard.fr/ameliorer-sa-configuration-twitter/)
 - [Effectuer une migration PHP](https://guillaume-richard.fr/effectuer-une-migration-php/)
-- [Extensions Chrome indispensables](https://jf-blog.fr/extensions-chrome-indispensables/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

@@ -10,11 +10,11 @@
 
 ### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->
+- [Résolvez des énigmes en développant](https://365idees.jf-blog.fr/resolvez-des-enigmes-en-developpant)
 - [SQL : Différencier les infos nulle et vide](https://guillaume-richard.fr/sql-differencier-une-infos-nulle-et-vide/)
 - [Connaître les caractéristiques d’une BDD en SQL](https://guillaume-richard.fr/connaitre-les-caracteristiques-dune-bdd-en-sql/)
 - [Parts de marché des navigateurs Web](https://jf-blog.fr/parts-de-marche-des-navigateurs-web/)
 - [Amélioration de code : cas de if-else](https://guillaume-richard.fr/amelioration-de-code-cas-de-if-else/)
-- [Améliorer sa configuration Twitter](https://guillaume-richard.fr/ameliorer-sa-configuration-twitter/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

@@ -10,11 +10,11 @@
 
 ### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->
+- [Initialiser votre projet Symfony](https://guillaume-richard.fr/initialiser-votre-projet-symfony/)
 - [Tutoriel et outils pour Dev Frontend](https://jf-blog.fr/tutoriel-et-outils-pour-dev-frontend/)
 - [JQuery : état des lieux ? utilisations ? remplacement ?](https://guillaume-richard.fr/jquery-etat-des-lieux-utilisations-remplacement/)
 - [Résolvez des énigmes en développant](https://365idees.jf-blog.fr/resolvez-des-enigmes-en-developpant)
 - [SQL : Différencier les infos nulle et vide](https://guillaume-richard.fr/sql-differencier-une-infos-nulle-et-vide/)
-- [Connaître les caractéristiques d’une BDD en SQL](https://guillaume-richard.fr/connaitre-les-caracteristiques-dune-bdd-en-sql/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

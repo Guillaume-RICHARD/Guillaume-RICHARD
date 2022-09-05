@@ -10,11 +10,11 @@
 
 ### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->
+- [Lodash est mort. Vive Radash.](https://guillaume-richard.fr/lodash-est-mort-vive-radash/)
 - [Cartographie 3D des métros mondiaux](https://365idees.jf-blog.fr/cartographie-3d-des-metros-mondiaux)
 - [Créer des commandes cli pour Symfony](https://guillaume-richard.fr/creer-des-commandes-cli-pour-symfony/)
 - [Redesign tes sites web préférés avec Stylus](https://jf-blog.fr/redesign-tes-sites-web-preferes-avec-stylus/)
 - [Initialiser votre projet Symfony](https://guillaume-richard.fr/initialiser-votre-projet-symfony/)
-- [Tutoriel et outils pour Dev Frontend](https://jf-blog.fr/tutoriel-et-outils-pour-dev-frontend/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

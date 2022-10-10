@@ -10,11 +10,11 @@
 
 ### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->
+- [Conférences Salon Data](https://jf-blog.fr/conferences-salon-data/)
 - [Adopte un introverti](https://365idees.jf-blog.fr/adopte-un-introverti)
 - [Lodash est mort. Vive Radash.](https://guillaume-richard.fr/lodash-est-mort-vive-radash/)
 - [Cartographie 3D des métros mondiaux](https://365idees.jf-blog.fr/cartographie-3d-des-metros-mondiaux)
 - [Créer des commandes cli pour Symfony](https://guillaume-richard.fr/creer-des-commandes-cli-pour-symfony/)
-- [Redesign tes sites web préférés avec Stylus](https://jf-blog.fr/redesign-tes-sites-web-preferes-avec-stylus/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

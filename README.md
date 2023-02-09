@@ -10,11 +10,11 @@
 
 ### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->
+- [Message d’alerte sous Symfony](https://jf-blog.fr/message-dalerte-sous-symfony/)
 - [Bilan de l’année 2022 et résolutions 2023](https://guillaume-richard.fr/bilan-de-lannee-2022-et-resolutions-2023/)
 - [Cartographie des villes de la loi montagne](https://jf-blog.fr/cartographie-des-villes-de-la-loi-montagne/)
 - [Conférences Salon Data](https://jf-blog.fr/conferences-salon-data/)
 - [Adopte un introverti](https://365idees.jf-blog.fr/adopte-un-introverti)
-- [Lodash est mort. Vive Radash.](https://guillaume-richard.fr/lodash-est-mort-vive-radash/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

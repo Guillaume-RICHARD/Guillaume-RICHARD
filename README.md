@@ -10,11 +10,11 @@
 
 ### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->
+- [Changer de version de PHP en Bash](https://jf-blog.fr/changer-version-php-bash/)
 - [Les fichiers Markdown essentiels d’un repository Git](https://guillaume-richard.fr/les-fichiers-markdown-essentiels-dun-repository-git/)
 - [Message d’alerte sous Symfony](https://jf-blog.fr/message-dalerte-sous-symfony/)
 - [Bilan de l’année 2022 et résolutions 2023](https://guillaume-richard.fr/bilan-de-lannee-2022-et-resolutions-2023/)
 - [Cartographie des villes de la loi montagne](https://jf-blog.fr/cartographie-des-villes-de-la-loi-montagne/)
-- [Conférences Salon Data](https://jf-blog.fr/conferences-salon-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

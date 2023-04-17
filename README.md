@@ -10,11 +10,11 @@
 
 ### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->
+- [Gestion de suppression des branches Git](https://guillaume-richard.fr/gestion-de-suppression-des-branches-git/)
 - [Changer de version de PHP en Bash](https://jf-blog.fr/changer-version-php-bash/)
 - [Les fichiers Markdown essentiels d’un repository Git](https://guillaume-richard.fr/les-fichiers-markdown-essentiels-dun-repository-git/)
 - [Message d’alerte sous Symfony](https://jf-blog.fr/message-dalerte-sous-symfony/)
 - [Bilan de l’année 2022 et résolutions 2023](https://guillaume-richard.fr/bilan-de-lannee-2022-et-resolutions-2023/)
-- [Cartographie des villes de la loi montagne](https://jf-blog.fr/cartographie-des-villes-de-la-loi-montagne/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

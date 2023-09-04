@@ -10,11 +10,11 @@
 
 ### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->
+- [Comment utiliser INFORMATION_SCHEMA pour explorer votre base de données SQL](https://guillaume-richard.fr/comment-utiliser-information_schema-pour-explorer-votre-base-de-donnees-sql/)
 - [Gestion de suppression des branches Git](https://guillaume-richard.fr/gestion-de-suppression-des-branches-git/)
 - [Changer de version de PHP en Bash](https://jf-blog.fr/changer-version-php-bash/)
 - [Les fichiers Markdown essentiels d’un repository Git](https://guillaume-richard.fr/les-fichiers-markdown-essentiels-dun-repository-git/)
 - [Message d’alerte sous Symfony](https://jf-blog.fr/message-dalerte-sous-symfony/)
-- [Bilan de l’année 2022 et résolutions 2023](https://guillaume-richard.fr/bilan-de-lannee-2022-et-resolutions-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

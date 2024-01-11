@@ -10,11 +10,11 @@
 
 ### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->
+- [Maintenance du Code PHP : lib à utiliser](https://jf-blog.fr/maintenance-du-code-php-lib-a-utiliser/)
 - [Que faire lors de la modification du .gitignore](https://guillaume-richard.fr/que-faire-lors-de-la-modification-du-gitignore/)
 - [Définition de PHP_VERSION_ID](https://jf-blog.fr/definition-de-php_version_id/)
 - [Comment utiliser INFORMATION_SCHEMA pour explorer votre base de données SQL](https://guillaume-richard.fr/comment-utiliser-information_schema-pour-explorer-votre-base-de-donnees-sql/)
 - [Gestion de suppression des branches Git](https://guillaume-richard.fr/gestion-de-suppression-des-branches-git/)
-- [Changer de version de PHP en Bash](https://jf-blog.fr/changer-version-php-bash/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

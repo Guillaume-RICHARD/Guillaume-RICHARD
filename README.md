@@ -10,11 +10,11 @@
 
 ### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->
+- [L’essentiel de l’audit des packages avec Composer](https://jf-blog.fr/lessentiel-de-laudit-des-packages-avec-composer/)
 - [Logs Prestashop et Requête SQL](https://guillaume-richard.fr/requete-sql-logs-mensuels-et-annuels-prestashop/)
 - [Maintenance du Code PHP : lib à utiliser](https://jf-blog.fr/maintenance-du-code-php-lib-a-utiliser/)
 - [Que faire lors de la modification du .gitignore](https://guillaume-richard.fr/que-faire-lors-de-la-modification-du-gitignore/)
 - [Définition de PHP_VERSION_ID](https://jf-blog.fr/definition-de-php_version_id/)
-- [Comment utiliser INFORMATION_SCHEMA pour explorer votre base de données SQL](https://guillaume-richard.fr/comment-utiliser-information_schema-pour-explorer-votre-base-de-donnees-sql/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

@@ -10,11 +10,11 @@
 
 ### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->
+- [Tips Laravel : Comment vider le cache](https://jf-blog.fr/tips-laravel-comment-vider-le-cache/)
 - [le Design Pattern Factory en PHP](https://guillaume-richard.fr/le-design-pattern-factory-en-php/)
 - [L’essentiel de l’audit des packages avec Composer](https://jf-blog.fr/lessentiel-de-laudit-des-packages-avec-composer/)
 - [Logs Prestashop et Requête SQL](https://guillaume-richard.fr/requete-sql-logs-mensuels-et-annuels-prestashop/)
 - [Maintenance du Code PHP : lib à utiliser](https://jf-blog.fr/maintenance-du-code-php-lib-a-utiliser/)
-- [Que faire lors de la modification du .gitignore](https://guillaume-richard.fr/que-faire-lors-de-la-modification-du-gitignore/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

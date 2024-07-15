@@ -10,11 +10,11 @@
 
 ### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->
+- [Gestion de plusieurs BDD dans Laravel](https://jf-blog.fr/gestion-de-plusieurs-bdd-dans-laravel/)
 - [le Design Pattern Builder en PHP](https://guillaume-richard.fr/le-design-pattern-builder-en-php/)
 - [le Design Pattern Strategy en PHP](https://guillaume-richard.fr/le-design-pattern-strategy-en-php/)
 - [Tips Laravel : Comment vider le cache](https://jf-blog.fr/tips-laravel-comment-vider-le-cache/)
 - [le Design Pattern Factory en PHP](https://guillaume-richard.fr/le-design-pattern-factory-en-php/)
-- [L’essentiel de l’audit des packages avec Composer](https://jf-blog.fr/lessentiel-de-laudit-des-packages-avec-composer/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

@@ -10,11 +10,11 @@
 
 ### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->
+- [Mettre un outil de surveillance sous Linux](https://jf-blog.fr/mettre-un-outil-de-surveillance-sous-linux/)
 - [le Design Pattern Trait en PHP](https://guillaume-richard.fr/le-design-pattern-trait-en-php/)
 - [le Design Pattern Observer en PHP](https://guillaume-richard.fr/le-design-pattern-observer-en-php/)
 - [Revenir sur un « HEAD detached »](https://jf-blog.fr/revenir-sur-un-head-detached/)
 - [le Design Pattern Facade en PHP](https://guillaume-richard.fr/le-design-pattern-facade-en-php/)
-- [Gestion de plusieurs BDD dans Laravel](https://jf-blog.fr/gestion-de-plusieurs-bdd-dans-laravel/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

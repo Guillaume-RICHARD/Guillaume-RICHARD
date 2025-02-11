@@ -10,11 +10,11 @@
 
 ### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->
+- [Mise à jour de Node.js et npm](https://jf-blog.fr/mise-a-jour-de-node-js-et-npm/)
 - [Le Design Pattern Singleton en PHP](https://guillaume-richard.fr/le-design-pattern-singleton-en-php/)
 - [Renommage de fichiers Git](https://jf-blog.fr/renommage-de-fichiers-git/)
 - [Mettre un outil de surveillance sous Linux](https://jf-blog.fr/mettre-un-outil-de-surveillance-sous-linux/)
 - [le Design Pattern Trait en PHP](https://guillaume-richard.fr/le-design-pattern-trait-en-php/)
-- [le Design Pattern Observer en PHP](https://guillaume-richard.fr/le-design-pattern-observer-en-php/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

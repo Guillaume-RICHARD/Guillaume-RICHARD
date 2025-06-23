@@ -10,11 +10,11 @@
 
 ### 📕 Blog Divers
 <!-- BLOG-POST-LIST:START -->
+- [🎯 Comment gérer plusieurs versions de PHP sur Ubuntu – Installer proprement PHP 8.4](https://guillaume-richard.fr/comment-gerer-plusieurs-versions-de-php-sur-ubuntu-installer-proprement-php-8-4/)
 - [Création de la Newsletter Ctrl+T](https://jf-blog.fr/creation-de-la-newsletter-ctrlt/)
 - [Mise à jour de Node.js et npm](https://jf-blog.fr/mise-a-jour-de-node-js-et-npm/)
 - [Le Design Pattern Singleton en PHP](https://guillaume-richard.fr/le-design-pattern-singleton-en-php/)
 - [Renommage de fichiers Git](https://jf-blog.fr/renommage-de-fichiers-git/)
-- [Mettre un outil de surveillance sous Linux](https://jf-blog.fr/mettre-un-outil-de-surveillance-sous-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies

@@ -1,23 +1,16 @@
-name: Latest blog post workflow
-
+name: Latest stack oveflow activity
 on:
-  schedule:
-    - cron: '0 * * * *'
   workflow_dispatch:
-
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
+  schedule:
+    - cron: '0 0 * * *' # Runs once a day at 00:00 UTC
+permissions:
+      contents: write
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update this repo's README with latest activity from StackOverflow
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Pull in blog posts
-        uses: gautamkrishnar/blog-post-workflow@v1.8.0
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://utils.guillaume-richard.fr/utils/rss/perso-rss.rss"
